@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>gr.codingfactory</groupId>
-	<artifactId>petpal-unofficial</artifactId>
+	<artifactId>petpal-back</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PetPal</name>
 	<description>Pet care app</description>
