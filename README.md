@@ -255,6 +255,18 @@ services:
 
 ---
 
+## 🖼 Screenshots
+
+### Landing Page
+> Current design of the Home/Landing screen.
+
+<img width="850" height="400" alt="image" src="https://github.com/user-attachments/assets/6f245ec4-c504-4a94-b0f7-5b5bf96f325c" />
+
+(others -> in progress)
+
+
+---
+
 ## 📄 License
 
 MIT
